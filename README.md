@@ -1,11 +1,10 @@
-# Beyond Planetz
+# 🌌 About Beyond Planetz
+Beyond Planetz is a Minecraft space modification that focuses on progression, detail, and quality. Inspired by our solar system and creative ideas this mod looks to create a total emensive feel that players enjoy.
 
-## About The Modification
-### Theme
-This modification is a space-based mod that takes inspiration from our solar system. The mod does not focus on it being realistic but rather unique and interesting. 
-
-### Inspiration
-Planet names are based on our solar system, though when you arrive on a planet, you will find that there is a unique ecosystem of biomes, plants, and minerals for each dimension. To survive there you will need to progress in research to unlock technology that will give you progression.
+# ✨ Creation
+The modification is proudly made with the open-source mod-making tool called MCreator. Textures and mechanics are hand-crafted by myself. Some sounds are also from freesound.org which have been creditaid, see the attributions page.
+  
+My discord community has also provided lots of feedback helping with the development of this mod. Some witch have also helped with the projects see credits for the full list of people that have contributed assets.
 
 # ⚖ Leagle
 - For a list of **ATTRIBUTIONS** for this mod, please [see this wiki page](https://github.com/northwesttrees-gaming/BeyondPlanetz/wiki/Attributions).
