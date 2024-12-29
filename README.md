@@ -1,5 +1,5 @@
 # 🌌 About Beyond Planetz
-Beyond Planetz is a Minecraft space modification that focuses on progression, detail, and quality. Inspired by our solar system and creative ideas this mod looks to create a total emensive feel that players enjoy.
+Beyond Planetz is a Minecraft space modification that focuses on progression, detail, and quality. Inspired by our solar system and creative ideas this mod looks to create an emissive feel that players enjoy.
 
 # ✨ Creation
 The modification is proudly made with the open-source mod-making tool called MCreator. Textures and mechanics are hand-crafted by myself. Some sounds are also from freesound.org which have been creditaid, see the attributions page.
